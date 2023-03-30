@@ -5,18 +5,18 @@ This is a project for Code Louisville Data Analysis 2. The data being used comes
 Hypothesis: 
 
 ## Instructions
-In order to run this code, the following will be needed:  
-    * Python 3.10 or higher  
-    * Jupyter Notebook
-    * Numpy, Matplotlib, and Openpyxl libraries
-    * Tableau
+In order to run this code, the following will be needed:    
+    * Python 3.10 or higher    
+    * Jupyter Notebook  
+    * Numpy, Matplotlib, and Openpyxl libraries  
+    * Tableau  
 
  Steps to run this code:  
     * Run git clone to clone the repository  
-    * In the Foodie-City-Scores directory, create a virtual environment  
-    * Install the libraries listed in requirements.txt via pip install  
-    * Run the scores.ipynb notebook
-    * Import the .xlsx file into Tableau to create the visualizations
+    * In the Foodie-City-Scores directory, create a virtual environment    
+    * Install the libraries listed in requirements.txt via pip install    
+    * Run the scores.ipynb notebook  
+    * Import the .xlsx file into Tableau to create the visualizations  
 
 ## Skills Summary
 This project demostrates the skills and features listed:  
