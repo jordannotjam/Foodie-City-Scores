@@ -20,8 +20,8 @@ In order to run this code, the following will be needed:
 
 ## Skills Summary
 This project demostrates the skills and features listed:  
-    * For Feature 1: Reading of two CSV files
-    * For Feature 2: Cleaning and merging of two data sets with new calculations created 
-    * For Feature 3: Display of data via a Tableau dashboard 
+    * For Feature 1: Reading of two CSV files  
+    * For Feature 2: Cleaning and merging of two data sets with new calculations created  
+    * For Feature 3: Display of data via a Tableau dashboard  
     * For Feature 4: Instructions on how to create and run the needed virtual environment  
-    * For Feature 5: Annotated code with markdown cells in the Jupyter notebook
+    * For Feature 5: Annotated code with markdown cells in the Jupyter notebook  
